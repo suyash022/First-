@@ -1,0 +1,4 @@
+Git is a version control system which enables you to track changes to files. It is entirely file based itself, meaning there is no additioanl software or applications required except Git istelf.
+
+Using Git, you are able to revert files back to previous versions, restore deleted files, remove added files and even track down where a particular line of code was introduced.
+

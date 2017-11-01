@@ -1,1 +1,2 @@
-education takes many forms. it is not just grades and degree.
+Ruby is an expressive, dynamic programming language. Ruby on Rails is an open source web framework for building custom web applications. The courses in this section get you quickly up to speed with the basics of the Ruby language and on track to building your first Rails application.
+
